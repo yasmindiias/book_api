@@ -8,10 +8,14 @@
 [] NodeJs
 [] Eslint
 [] Prettier
-[] EditorConfig
-[] Typescript
-[] Routes
-  [] /books (GET)
+[x] EditorConfig
+[x] Typescript
+[] Mongoose
+
+- Model
+  [] Book
+- Routes
+  [x] /books (GET)
   [] /books/:id (GET)
   [] /books/:id (UPDATE)
   [] /books/:id (DELETE)
