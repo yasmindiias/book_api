@@ -9,3 +9,10 @@
 [] Eslint
 [] Prettier
 [] EditorConfig
+[] Typescript
+[] Routes
+  [] /books (GET)
+  [] /books/:id (GET)
+  [] /books/:id (UPDATE)
+  [] /books/:id (DELETE)
+  [] /books (POST)
