@@ -5,7 +5,7 @@
 ## Features
 
 [x] Javascript/Typescript
-[] NodeJs
+[x] NodeJs
 [] Eslint
 [] Prettier
 [x] EditorConfig
